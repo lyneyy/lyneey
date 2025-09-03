@@ -1,18 +1,15 @@
-# lyneey
-🐚˖° Hi there! I'm Evelyn! 
+<h1> 🐚˖° 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆, 𝑰'𝒎 𝑬𝒗𝒆𝒍𝒚𝒏! ⋆｡‧˚ </h1> 
 <div align="left">
-  🙋‍♂️ About Me
 
-🎓 Computer Science - Software Engineering Student at BINUS University (B29)
-💻 Blockchain and crypto enthusiast!
-🌱 Currently learning about C and C++
-⚡ Fun fact: $SOL's my favorite
+🎐| Computer Science - Software Engineering Student at BINUS University (B29) <br>
+🩵| Blockchain and crypto enthusiast! <br> 
+🪼| Fun fact: $SOL is my favorite :)
 
 <div align="left">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://pin.it/4XaYOMRIM)" width="400" height="300"/>
+  <img src="https://pin.it/3DCsMvYaT" width="300" height="200"/>
 </div>
 
-🎯 Current Focus
+<h2> 🎯 Current Focus </h2>
 
 🔭 Working on: Personal projects and university assignments
 🌱 Learning: C and Algorithm Programming
