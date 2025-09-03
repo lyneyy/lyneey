@@ -19,18 +19,6 @@
 
 </div>
 
-<h2> 🫧 Current Projects & Focus </h2>
-
-<div align="left">
-
-- 🌟 
-- ⛓️ 
-- 💎 
-- 📚 
-- 🔮 
-
-</div>
-
 <h2> 🪸 GitHub Stats </h2>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lyneyy&theme=react-dark&hide_border=true)
@@ -52,7 +40,7 @@
 </div>
 
 <div align="center">
- <img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="310" height="200"/>
-  <img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="310" height="200"/>
-<img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="310" height="200"/>
+ <img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="300" height="200"/>
+  <img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="300" height="200"/>
+<img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="300" height="200"/>
 </div>
