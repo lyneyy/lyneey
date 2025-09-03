@@ -26,8 +26,8 @@
 - 🌟 
 - ⛓️ 
 - 💎 
-- 📚 **University Assignments** - Data structures, algorithms, and software engineering
-- 🔮 **Learning Focus**: Advanced JavaScript, React.js, and Solidity
+- 📚 
+- 🔮 
 
 </div>
 
@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
- <img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="320" height="200"/>
-  <img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="320" height="200"/>
-<img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="320" height="200"/>
+ <img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="310" height="200"/>
+  <img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="310" height="200"/>
+<img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="310" height="200"/>
 </div>
