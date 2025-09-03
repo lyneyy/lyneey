@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
- <img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="200" height="200"/>
-  <img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="200" height="200"/>
-<img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="200" height="200"/>
+ <img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="230" height="200"/>
+  <img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="230" height="200"/>
+<img src="https://github.com/lyneyy/lyneey/blob/main/totoro10.gif" width="230" height="200"/>
 </div>
