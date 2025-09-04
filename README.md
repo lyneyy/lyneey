@@ -33,7 +33,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evelynloveina)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evelyn-loveina-58328137a)
 [![Instagram](https://img.shields.io/badge/Instagram-B0E0E6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/evelynloveina)
 [![GitHub](https://img.shields.io/badge/GitHub-ADD8E6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lyneyy)
 
